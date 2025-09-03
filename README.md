@@ -1,4 +1,4 @@
-\# American Sign Language (ASL) Recognition
+# American Sign Language (ASL) Recognition
 
 
 
@@ -6,19 +6,19 @@ This project detects and recognizes American Sign Language letters in real-time 
 
 
 
-\## Features
+## Features
 
 
 
-\* Real-time ASL recognition via webcam.
+* Real-time ASL recognition via webcam.
 
-\* YOLOv8-based object detection model.
+* YOLOv8-based object detection model.
 
-\* Trainable on custom datasets using Roboflow integration.
+* Trainable on custom datasets using Roboflow integration.
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -48,11 +48,11 @@ pip install -r requirements.txt
 
 
 
-\## Usage
+## Usage
 
 
 
-\### Webcam Detection
+### Webcam Detection
 
 
 
@@ -72,41 +72,17 @@ Detected letters will be shown on the screen and saved in `asl\_detection.mp4`.
 
 
 
-\### Training the Model
+### Training the Model
 
 
 
 You can train a YOLOv8 model on the ASL dataset using the provided Jupyter notebook `training.ipynb`.
 
-
-
-\### Folder Structure
-
-
-
-```
-
-E:\\programming\\projects\\ASL
-
-│   main.py
-
-│   training.ipynb
-
-└───Data
-
-&nbsp;       model.pt
-
-&nbsp;       test.gif
-
-```
-
-
-
 You can refer to `test.gif` as an example input/output visualization.
 
 
 
-\## Author
+## Author
 
 
 
