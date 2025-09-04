@@ -27,10 +27,9 @@ We used the **[American Sign Language Letters Dataset (Roboflow)](https://public
 
 Here are some sample images from the dataset:
 
-<img src="Data/as1.jpg" width="250">  
-<img src="Data/as2.jpg" width="250">  
-<img src="Data/as3.jpg" width="250">  
+<img src="Data/as1.jpg" width="250">  <img src="Data/as2.jpg" width="250">  <img src="Data/as3.jpg" width="250">  
 
+<img src="Data/test.gif">
 ---
 
 ## Why YOLOv8?
